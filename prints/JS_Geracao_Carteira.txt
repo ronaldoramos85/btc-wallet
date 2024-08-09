@@ -1,0 +1,5 @@
+PS C:\Users\Hitss\Documents\Projetos\BTCWALLET\src> node .\createWallet.js                                               
+Carteira gerada.
+Endereço: tb1qn0utedx2wp2wxe059t57mejch74629dk68m3rh
+Chave privada cQoZoRaGRBDF3MH3raediJ38KV4Zec2o4xJB4QAimsZCssNP5UTD
+Seed stem turn taxi duty knife crime pizza enter spell sign good super
